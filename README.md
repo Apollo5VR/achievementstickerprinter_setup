@@ -2,15 +2,17 @@
 
 **AchievMints** is the Windows setup for [Achievements Sticker Printer](https://github.com/Apollo5VR/SteamStickerPrinter).
 
-## Download (recommended)
+## Download
 
-Use a **GitHub Release** link, not Google Drive. Drive flags .exe files and shows **Download anyway**; release assets do not.
+Use the **[GitHub Release](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/tag/0.5.3)** â€” not Google Drive (Drive shows **Download anyway** on .exe files).
 
 | Version | Installer |
 |---------|-----------|
-| **0.5.3** | [AchievMints-0.5.3-Setup.exe](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/download/v0.5.3/AchievMints-0.5.3-Setup.exe) |
+| **0.5.3** | [AchievMints-0.5.3-Setup.exe](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/download/0.5.3/AchievMints-0.5.3-Setup.exe) |
 
-**Latest release:** [https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/latest/download/AchievMints-0.5.3-Setup.exe](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/latest/download/AchievMints-0.5.3-Setup.exe)
+Direct download: [https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/download/0.5.3/AchievMints-0.5.3-Setup.exe](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/download/0.5.3/AchievMints-0.5.3-Setup.exe)
+
+Latest (when this is the current release): [https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/latest/download/AchievMints-0.5.3-Setup.exe](https://github.com/Apollo5VR/achievementstickerprinter_setup/releases/latest/download/AchievMints-0.5.3-Setup.exe)
 
 ## Install
 
